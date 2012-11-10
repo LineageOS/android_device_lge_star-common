@@ -16,6 +16,23 @@
       "revId": "b4df1601e3edb1c9f6de77adc138fa7e9e89072a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//9zU\u003d",
+        "filename": "ril/telephony/java/com/android/internal/telephony/LGEInfineon.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 1301
+      },
+      "writtenOn": "2012-11-10T14:52:12Z",
+      "side": 0,
+      "message": "maybe check hourbreak.length to make sure ?",
+      "revId": "b4df1601e3edb1c9f6de77adc138fa7e9e89072a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
